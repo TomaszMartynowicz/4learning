@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Whatever</title>
+<link rel="stylesheet" type="text/css" href="mystyle.css" />
+</head>
+
+<body> 
+
+body {
+backhround-color: blue;
+}
+
+<h1>SomethingNow</h1>
+h1 {
+color: red;
+}
+
+<p>Something</p>
+
+p {
+color: black 
+font-family: bold; 
+}
+
+
+</body>
+
+</html>
